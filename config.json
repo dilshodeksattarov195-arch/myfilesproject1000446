@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailpelete",
+        "uuid": 2352204,
+        "checksum": "g46lr"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
